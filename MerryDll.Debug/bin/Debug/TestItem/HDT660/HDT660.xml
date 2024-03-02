@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HDT660</name>
+    </assembly>
+    <members>
+        <member name="T:MerryDllFramework.Config">
+            <summary>
+            Config.txt程序配置
+            </summary>
+        </member>
+        <member name="P:MerryDllFramework.Config.CheckColorIDBy">
+            <summary>
+            判定从工单(WO)或料号(PN)来检查ColorID，
+            </summary>
+        </member>
+        <member name="P:MerryDllFramework.Config.OpenBoxCmd">
+            <summary>
+            开启屏蔽箱的指令
+            </summary>
+        </member>
+        <member name="P:MerryDllFramework.Config.CloseBoxCmd">
+            <summary>
+            关闭屏蔽箱的指令
+            </summary>
+        </member>
+        <member name="T:MerryDllFramework.Config.ButtonStatus">
+            <summary>
+            按键返回值
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.MerryDll.PN">
+            <summary>
+            当前产品料号
+            </summary>
+        </member>
+        <member name="P:MerryDllFramework.MerryDll.ColorID">
+            <summary>
+            颜色ID
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.WriteDongleCap(System.String)">
+            <summary>
+            写入DonlgeCap值
+            </summary>
+            <param name="cap">16进制数，不带0x</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.WriteHeadsetCap(System.String)">
+            <summary>
+            写入耳机Cap值
+            </summary>
+            <param name="cap">16进制数，不带0x</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ReadDongleCap">
+            <summary>
+            读Dongle cap值
+            </summary>
+            <returns>16进制校准值</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ReadHeadsetCap">
+            <summary>
+            读耳机cap值
+            </summary>
+            <returns>16进制校准值</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.WriteHeadsetRFCalibratedValue">
+            <summary>
+            写入耳机Cap校准值
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.WriteDongleRFCalibratedValue">
+            <summary>
+            写入DongleCap校准值
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.OpenChannel(SWDevelopKit.USBDevice.ComPort,SWDevelopKit.USBDevice.ComPort,System.Int32)">
+            <summary>
+            检查所有Dongle和耳机的COM完全准备（以可以获取FW来判断）
+            </summary>
+            <param name="comPorts"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetDeviceComPortState(SWDevelopKit.USBDevice.ComPort)">
+            <summary>
+            检查Donlge和耳机的状态;
+            </summary>
+            <param name="com"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ReadDonglePairedBD">
+            <summary>
+            读取Dongle中的耳机SN
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Assert(System.Func{System.Boolean},System.String)">
+            <summary>
+            自定义断言方法
+            </summary>
+            <param name="func"></param>
+            <param name="errMsg"></param>
+            <remarks>系统断言不能在 Release 版保留，用这个方法替代</remarks>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Assert(System.Boolean,System.String)">
+            <summary>
+            自定义断言方法， result == true 抛出异常
+            </summary>
+            <param name="func"></param>
+            <param name="errMsg"></param>
+            <remarks>系统断言不能在 Release 版保留，用这个方法替代</remarks>
+        </member>
+        <member name="M:MerryDllFramework.Player.StartMusic(System.String)">
+            <summary>
+            开始播放音乐
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.Player.RecordTest">
+            <summary>
+            开始录音
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.Player.StartRecord(System.String)">
+            <summary>
+            开始录音
+            </summary>
+            <param name="filePath"></param>
+        </member>
+        <member name="M:MerryDllFramework.Player.StopRecord">
+            <summary>
+            停止录音
+            </summary>
+        </member>
+    </members>
+</doc>

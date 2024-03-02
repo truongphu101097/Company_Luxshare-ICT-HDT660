@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f9d16c06-49ab-4071-a822-2bb12bf161a2": {
+      "ProjectGuid": "f9d16c06-49ab-4071-a822-2bb12bf161a2",
+      "DisplayName": "MerryDll",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "e577f8c2-fa61-4586-b91e-ce7da4b797ab": {
+      "ProjectGuid": "e577f8c2-fa61-4586-b91e-ce7da4b797ab",
+      "DisplayName": "MerryDll.Debug",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,6 @@
+[11:50:53]"DongleColor"
+[11:50:53]System.IndexOutOfRangeException: 索引在陣列的界限之外。
+   於 SWDevelopKit.USBDevice.Entity.Report.CutData(String indexsStr) 於 E:\gitea\sw-develop-kit\SWDevelopKit.USBDevice\Entity\Report.cs: 行 45
+   於 SWDevelopKit.USBDevice.ComPort.SendAndGetReport(String cmd, String indexs) 於 E:\gitea\sw-develop-kit\SWDevelopKit.USBDevice\ComPort.cs: 行 167
+   於 MerryDllFramework.MerryDll.DongleColor() 於 E:\gitea\HDT660\MerryDll\MerryDll.cs: 行 418
+   於 SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\TestitemManager.cs: 行 42

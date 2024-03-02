@@ -1,0 +1,339 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HDT660</name>
+    </assembly>
+    <members>
+        <member name="F:MerryDllFramework.ColorSelect.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.ColorSelect.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MerryDllFramework.ColorSelect.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:MerryDllFramework.Config">
+            <summary>
+            Config.txt程序配置
+            </summary>
+        </member>
+        <member name="P:MerryDllFramework.Config.CheckColorIDBy">
+            <summary>
+            判定从工单(WO)或料号(PN)来检查ColorID，
+            </summary>
+        </member>
+        <member name="P:MerryDllFramework.Config.OpenBoxCmd">
+            <summary>
+            开启屏蔽箱的指令
+            </summary>
+        </member>
+        <member name="P:MerryDllFramework.Config.CloseBoxCmd">
+            <summary>
+            关闭屏蔽箱的指令
+            </summary>
+        </member>
+        <member name="T:MerryDllFramework.Config.ButtonStatus">
+            <summary>
+            按键返回值
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.MerryDll.PN">
+            <summary>
+            当前产品料号
+            </summary>
+        </member>
+        <member name="P:MerryDllFramework.MerryDll.ColorID">
+            <summary>
+            颜色ID
+            </summary>
+        </member>
+        <member name="F:MerryDllFramework.MerryDll.MerryTrsyFlag">
+            <summary>
+            区分是否为连板
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.OpenChannel(SWDevelopKit.USBDevice.ComPort,SWDevelopKit.USBDevice.ComPort,System.Int32)">
+            <summary>
+            检查所有Dongle和耳机的COM完全准备（以可以获取FW来判断）
+            </summary>
+            <param name="comPorts"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.GetDeviceComPortState(SWDevelopKit.USBDevice.ComPort)">
+            <summary>
+            检查Donlge和耳机的状态;
+            </summary>
+            <param name="com"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ReadDonglePairedBD">
+            <summary>
+            读取Dongle中的耳机SN
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.WriteDongleCap(System.String)">
+            <summary>
+            写入DonlgeCap值
+            </summary>
+            <param name="cap">16进制数，不带0x</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.WriteHeadsetCap(System.String)">
+            <summary>
+            写入耳机Cap值
+            </summary>
+            <param name="cap">16进制数，不带0x</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ReadDongleCap">
+            <summary>
+            读Dongle cap值
+            </summary>
+            <returns>16进制校准值</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.ReadHeadsetCap">
+            <summary>
+            读耳机cap值
+            </summary>
+            <returns>16进制校准值</returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.WriteHeadsetRFCalibratedValue">
+            <summary>
+            写入耳机Cap校准值
+            </summary>
+            <returns></returns> 
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.WriteDongleRFCalibratedValue">
+            <summary>
+            写入DongleCap校准值
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Assert(System.Func{System.Boolean},System.String)">
+            <summary>
+            自定义断言方法
+            </summary>
+            <param name="func"></param>
+            <param name="errMsg"></param>
+            <remarks>系统断言不能在 Release 版保留，用这个方法替代</remarks>
+        </member>
+        <member name="M:MerryDllFramework.MerryDll.Assert(System.Boolean,System.String)">
+            <summary>
+            自定义断言方法， result == true 抛出异常
+            </summary>
+            <param name="func"></param>
+            <param name="errMsg"></param>
+            <remarks>系统断言不能在 Release 版保留，用这个方法替代</remarks>
+        </member>
+        <member name="M:MerryDllFramework.Player.StartMusic(System.String)">
+            <summary>
+            开始播放音乐
+            </summary>
+        </member>
+        <member name="M:MerryDllFramework.Player.RecordTest">
+            <summary>
+            开始录音
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MerryDllFramework.Player.StartRecord(System.String)">
+            <summary>
+            开始录音
+            </summary>
+            <param name="filePath"></param>
+        </member>
+        <member name="M:MerryDllFramework.Player.StopRecord">
+            <summary>
+            停止录音
+            </summary>
+        </member>
+        <member name="M:MerryTest.SingleTestAPI.SingleTestAddTool.INIOperationClass.GetPrivateProfileSectionNames(System.IntPtr,System.UInt32,System.String)">
+            <summary>
+            获取所有节点名称(Section)
+            </summary>
+            <param name="lpszReturnBuffer">存放节点名称的内存地址,每个节点之间用\0分隔</param>
+            <param name="nSize">内存大小(characters)</param>
+            <param name="lpFileName">Ini文件</param>
+            <returns>内容的实际长度,为0表示没有内容,为nSize-2表示内存大小不够</returns>
+        </member>
+        <member name="M:MerryTest.SingleTestAPI.SingleTestAddTool.INIOperationClass.GetPrivateProfileSection(System.String,System.IntPtr,System.UInt32,System.String)">
+            <summary>
+            获取某个指定节点(Section)中所有KEY和Value
+            </summary>
+            <param name="lpAppName">节点名称</param>
+            <param name="lpReturnedString">返回值的内存地址,每个之间用\0分隔</param>
+            <param name="nSize">内存大小(characters)</param>
+            <param name="lpFileName">Ini文件</param>
+            <returns>内容的实际长度,为0表示没有内容,为nSize-2表示内存大小不够</returns>
+        </member>
+        <member name="M:MerryTest.SingleTestAPI.SingleTestAddTool.INIOperationClass.GetPrivateProfileString(System.String,System.String,System.String,System.Char[],System.UInt32,System.String)">
+            <summary>
+            读取INI文件中指定的Key的值
+            </summary>
+            <param name="lpAppName">节点名称。如果为null,则读取INI中所有节点名称,每个节点名称之间用\0分隔</param>
+            <param name="lpKeyName">Key名称。如果为null,则读取INI中指定节点中的所有KEY,每个KEY之间用\0分隔</param>
+            <param name="lpDefault">读取失败时的默认值</param>
+            <param name="lpReturnedString">读取的内容缓冲区，读取之后，多余的地方使用\0填充</param>
+            <param name="nSize">内容缓冲区的长度</param>
+            <param name="lpFileName">INI文件名</param>
+            <returns>实际读取到的长度</returns>
+        </member>
+        <member name="M:MerryTest.SingleTestAPI.SingleTestAddTool.INIOperationClass.WritePrivateProfileSection(System.String,System.String,System.String)">
+            <summary>
+            将指定的键值对写到指定的节点，如果已经存在则替换。
+            </summary>
+            <param name="lpAppName">节点，如果不存在此节点，则创建此节点</param>
+            <param name="lpString">Item键值对，多个用\0分隔,形如key1=value1\0key2=value2
+            <para>如果为string.Empty，则删除指定节点下的所有内容，保留节点</para>
+            <para>如果为null，则删除指定节点下的所有内容，并且删除该节点</para>
+            </param>
+            <param name="lpFileName">INI文件</param>
+            <returns>是否成功写入</returns>
+        </member>
+        <member name="M:MerryTest.SingleTestAPI.SingleTestAddTool.INIOperationClass.WritePrivateProfileString(System.String,System.String,System.String,System.String)">
+            <summary>
+            将指定的键和值写到指定的节点，如果已经存在则替换
+            </summary>
+            <param name="lpAppName">节点名称</param>
+            <param name="lpKeyName">键名称。如果为null，则删除指定的节点及其所有的项目</param>
+            <param name="lpString">值内容。如果为null，则删除指定节点中指定的键。</param>
+            <param name="lpFileName">INI文件</param>
+            <returns>操作是否成功</returns>
+        </member>
+        <member name="M:MerryTest.SingleTestAPI.SingleTestAddTool.INIOperationClass.INIGetAllSectionNames(System.String)">
+            <summary>
+            读取INI文件中指定INI文件中的所有节点名称(Section)
+            </summary>
+            <param name="iniFile">Ini文件</param>
+            <returns>所有节点,没有内容返回string[0]</returns>
+        </member>
+        <member name="M:MerryTest.SingleTestAPI.SingleTestAddTool.INIOperationClass.INIGetAllItems(System.String,System.String)">
+            <summary>
+            获取INI文件中指定节点(Section)中的所有条目(key=value形式)
+            </summary>
+            <param name="iniFile">Ini文件</param>
+            <param name="section">节点名称</param>
+            <returns>指定节点中的所有项目,没有内容返回string[0]</returns>
+        </member>
+        <member name="M:MerryTest.SingleTestAPI.SingleTestAddTool.INIOperationClass.INIGetAllItemKeys(System.String,System.String)">
+            <summary>
+            获取INI文件中指定节点(Section)中的所有条目的Key列表
+            </summary>
+            <param name="iniFile">Ini文件</param>
+            <param name="section">节点名称</param>
+            <returns>如果没有内容,反回string[0]</returns>
+        </member>
+        <member name="M:MerryTest.SingleTestAPI.SingleTestAddTool.INIOperationClass.INIGetStringValue(System.String,System.String,System.String,System.String)">
+            <summary>
+            读取INI文件中指定KEY的字符串型值
+            </summary>
+            <param name="iniFile">Ini文件</param>
+            <param name="section">节点名称</param>
+            <param name="key">键名称</param>
+            <param name="defaultValue">如果没此KEY所使用的默认值</param>
+            <returns>读取到的值</returns>
+        </member>
+        <member name="M:MerryTest.SingleTestAPI.SingleTestAddTool.INIOperationClass.INIWriteItems(System.String,System.String,System.String)">
+            <summary>
+            在INI文件中，将指定的键值对写到指定的节点，如果已经存在则替换
+            </summary>
+            <param name="iniFile">INI文件</param>
+            <param name="section">节点，如果不存在此节点，则创建此节点</param>
+            <param name="items">键值对，多个用\0分隔,形如key1=value1\0key2=value2</param>
+            <returns></returns>
+        </member>
+        <member name="M:MerryTest.SingleTestAPI.SingleTestAddTool.INIOperationClass.INIWriteValue(System.String,System.String,System.String,System.String)">
+            <summary>
+            在INI文件中，指定节点写入指定的键及值。如果已经存在，则替换。如果没有则创建。
+            </summary>
+            <param name="iniFile">INI文件</param>
+            <param name="section">节点</param>
+            <param name="key">键</param>
+            <param name="value">值</param>
+            <returns>操作是否成功</returns>
+        </member>
+        <member name="M:MerryTest.SingleTestAPI.SingleTestAddTool.INIOperationClass.INIDeleteKey(System.String,System.String,System.String)">
+            <summary>
+            在INI文件中，删除指定节点中的指定的键。
+            </summary>
+            <param name="iniFile">INI文件</param>
+            <param name="section">节点</param>
+            <param name="key">键</param>
+            <returns>操作是否成功</returns>
+        </member>
+        <member name="M:MerryTest.SingleTestAPI.SingleTestAddTool.INIOperationClass.INIDeleteSection(System.String,System.String)">
+            <summary>
+            在INI文件中，删除指定的节点。
+            </summary>
+            <param name="iniFile">INI文件</param>
+            <param name="section">节点</param>
+            <returns>操作是否成功</returns>
+        </member>
+        <member name="M:MerryTest.SingleTestAPI.SingleTestAddTool.INIOperationClass.INIEmptySection(System.String,System.String)">
+            <summary>
+            在INI文件中，删除指定节点中的所有内容。
+            </summary>
+            <param name="iniFile">INI文件</param>
+            <param name="section">节点</param>
+            <returns>操作是否成功</returns>
+        </member>
+        <member name="T:SWDevelopKit.Testitem.RFTestPlan">
+            <summary>
+            包含一些RF测试相关方法
+            </summary>
+        </member>
+        <member name="M:SWDevelopKit.Testitem.RFTestPlan.GetReady(SWDevelopKit.USBDevice.ComPort,SWDevelopKit.USBDevice.ComPort)">
+            <summary>
+            RF测试前置动作，开启RSSIRF测试通道 
+            </summary>
+            <param name="sender">发送方</param>
+            <param name="receiver">接收方</param>
+            <returns></returns>
+        </member>
+        <member name="M:SWDevelopKit.Testitem.RFTestPlan.RF2402(SWDevelopKit.USBDevice.ComPort,SWDevelopKit.USBDevice.ComPort,System.Double)">
+            <summary>
+            
+            </summary>
+            <param name="sender">发送方</param>
+            <param name="receiver">接收方</param>
+            <param name="offset">补偿值</param>
+            <returns></returns>
+        </member>
+        <member name="M:SWDevelopKit.Testitem.RFTestPlan.RF2440(SWDevelopKit.USBDevice.ComPort,SWDevelopKit.USBDevice.ComPort,System.Double)">
+            <summary>
+            
+            </summary>
+            <param name="sender">发送方</param>
+            <param name="receiver">接收方</param>
+            <param name="offset">补偿值</param>
+            <returns></returns>
+        </member>
+        <member name="M:SWDevelopKit.Testitem.RFTestPlan.RF2480(SWDevelopKit.USBDevice.ComPort,SWDevelopKit.USBDevice.ComPort,System.Double)">
+            <summary>
+            
+            </summary>
+            <param name="sender">发送方</param>
+            <param name="receiver">接收方</param>
+            <param name="offset">补偿值</param>
+            <returns></returns>
+        </member>
+        <member name="M:SWDevelopKit.Testitem.RFTestPlan.PER2440(SWDevelopKit.USBDevice.ComPort,SWDevelopKit.USBDevice.ComPort)">
+            <summary>
+            PER测试
+            </summary>
+            <param name="sender">发送方</param>
+            <param name="receiver">接收方</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

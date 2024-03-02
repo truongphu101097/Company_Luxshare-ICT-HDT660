@@ -1,0 +1,23 @@
+[15:09:12]"GetDongleFW"
+[15:09:12]System.IO.FileNotFoundException: 找不到檔案 'E:\gitea\HDT660\MerryDll.Debug\bin\Debug\Libs\Config.txt'。
+檔案名稱: 'E:\gitea\HDT660\MerryDll.Debug\bin\Debug\Libs\Config.txt'
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   於 SWDevelopKit.Config.IniConfigHelper.ParseToDict(String filePath) 於 E:\gitea\sw-develop-kit\SWDevelopKit\Config\IniConfigHelper.cs: 行 33
+   於 SWDevelopKit.Config.IniConfigHelper.ParseToEntity[T](String filePath) 於 E:\gitea\sw-develop-kit\SWDevelopKit\Config\IniConfigHelper.cs: 行 58
+   於 MerryDllFramework.MerryDll.get_Config() 於 E:\gitea\HDT660\MerryDll\MerryDll.cs: 行 28
+   於 MerryDllFramework.MerryDll.get_DSerialDev() 於 E:\gitea\HDT660\MerryDll\MerryDll.cs: 行 40
+   於 MerryDllFramework.MerryDll.GetDongleFW() 於 E:\gitea\HDT660\MerryDll\MerryDll.cs: 行 262
+   於 SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\TestitemManager.cs: 行 42
+[15:46:07]"OpenShieldingBox"
+[15:46:07]System.IO.FileNotFoundException: 找不到檔案 'E:\gitea\HDT660\MerryDll.Debug\bin\Debug\Config.txt'。
+檔案名稱: 'E:\gitea\HDT660\MerryDll.Debug\bin\Debug\Config.txt'
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   於 SWDevelopKit.Config.IniConfigHelper.ParseToDict(String filePath) 於 E:\gitea\sw-develop-kit\SWDevelopKit\Config\IniConfigHelper.cs: 行 33
+   於 SWDevelopKit.Config.IniConfigHelper.ParseToEntity[T](String filePath) 於 E:\gitea\sw-develop-kit\SWDevelopKit\Config\IniConfigHelper.cs: 行 58
+   於 MerryDllFramework.MerryDll.get_Config() 於 E:\gitea\HDT660\MerryDll\MerryDll.cs: 行 27
+   於 MerryDllFramework.MerryDll.<LoadTestitem>b__20_25() 於 E:\gitea\HDT660\MerryDll\MerryDll.cs: 行 120
+   於 SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\TestitemManager.cs: 行 42

@@ -1,0 +1,39 @@
+[08:06:49]"ReadDonglePairedBD"
+[08:06:49]System.IndexOutOfRangeException: 索引在陣列的界限之外。
+   於 SWDevelopKit.USBDevice.Entity.Report.CutData(String indexsStr) 於 E:\gitea\sw-develop-kit\SWDevelopKit.USBDevice\Entity\Report.cs: 行 45
+   於 SWDevelopKit.USBDevice.ComPort.SendAndGetReport(String cmd, String indexs) 於 E:\gitea\sw-develop-kit\SWDevelopKit.USBDevice\ComPort.cs: 行 167
+   於 MerryDllFramework.MerryDll.ReadDonglePairedBD() 於 E:\gitea\HDT660\MerryDll\MerryDll.cs: 行 383
+   於 SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\TestitemManager.cs: 行 42
+[08:10:24]"Pair"
+[08:10:24]System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.get_BytesToRead()
+   於 SWDevelopKit.USBDevice.ComPort.Send(String cmd) 於 E:\gitea\sw-develop-kit\SWDevelopKit.USBDevice\ComPort.cs: 行 138
+   於 MerryDllFramework.MerryDll.Pair() 於 E:\gitea\HDT660\MerryDll\MerryDll.cs: 行 419
+   於 SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\TestitemManager.cs: 行 42
+[08:10:45]"Pair"
+[08:10:45]System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.get_BytesToRead()
+   於 SWDevelopKit.USBDevice.ComPort.Send(String cmd) 於 E:\gitea\sw-develop-kit\SWDevelopKit.USBDevice\ComPort.cs: 行 138
+   於 MerryDllFramework.MerryDll.Pair() 於 E:\gitea\HDT660\MerryDll\MerryDll.cs: 行 419
+   於 SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\TestitemManager.cs: 行 42
+[08:11:47]"Pair"
+[08:11:47]System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.get_BytesToRead()
+   於 SWDevelopKit.USBDevice.ComPort.Send(String cmd) 於 E:\gitea\sw-develop-kit\SWDevelopKit.USBDevice\ComPort.cs: 行 138
+   於 MerryDllFramework.MerryDll.Pair() 於 E:\gitea\HDT660\MerryDll\MerryDll.cs: 行 419
+   於 SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\TestitemManager.cs: 行 42
+[08:12:33]"Pair"
+[08:12:33]System.InvalidOperationException: BaseStream 只能在通訊埠開啟時使用。
+   於 System.IO.Ports.SerialPort.get_BaseStream()
+   於 SWDevelopKit.USBDevice.ComPort.Send(String cmd) 於 E:\gitea\sw-develop-kit\SWDevelopKit.USBDevice\ComPort.cs: 行 136
+   於 MerryDllFramework.MerryDll.Pair() 於 E:\gitea\HDT660\MerryDll\MerryDll.cs: 行 419
+   於 SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\TestitemManager.cs: 行 42
+[08:13:35]"Pair"
+[08:13:35]System.IndexOutOfRangeException: 索引在陣列的界限之外。
+   於 SWDevelopKit.USBDevice.Entity.Report.CutData(String indexsStr) 於 E:\gitea\sw-develop-kit\SWDevelopKit.USBDevice\Entity\Report.cs: 行 45
+   於 SWDevelopKit.USBDevice.ComPort.SendAndGetReport(String cmd, String indexs) 於 E:\gitea\sw-develop-kit\SWDevelopKit.USBDevice\ComPort.cs: 行 167
+   於 MerryDllFramework.MerryDll.ReadDonglePairedBD()
+   於 MerryDllFramework.MerryDll.<Pair>b__49_0()
+   於 SWDevelopKit.Util.Utils.WaitSomething(Int32 timeout, Int32 freq, Func`1 func) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Util\Utils.cs: 行 115
+   於 MerryDllFramework.MerryDll.Pair()
+   於 SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\TestitemManager.cs: 行 42

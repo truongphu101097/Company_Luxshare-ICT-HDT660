@@ -1,0 +1,48 @@
+[11:58:26]"HeadsetOpenChannel"
+[11:58:26]System.Exception: [exception] receiver == null
+   於 SWDevelopKit.Testitem.RFTestPlan.GetReady(ComPort sender, ComPort receiver) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\RFTestPlan.cs: 行 23
+   於 MerryDllFramework.MerryDll.<>c__DisplayClass19_0.<OpenChannel>b__0() 於 E:\gitea\HDT660\MerryDll\MerryDll.cs: 行 139
+   於 SWDevelopKit.Util.Utils.WaitSomething(Int32 timeout, Int32 freq, Func`1 func) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Util\Utils.cs: 行 115
+   於 MerryDllFramework.MerryDll.OpenChannel(ComPort sender, ComPort receiver, Int32 retryCount) 於 E:\gitea\HDT660\MerryDll\MerryDll.cs: 行 138
+   於 MerryDllFramework.MerryDll.<LoadTestitem>b__18_31() 於 E:\gitea\HDT660\MerryDll\MerryDll.cs: 行 127
+   於 SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\TestitemManager.cs: 行 42
+[11:58:45]"HeadsetOpenChannel"
+[11:58:45]System.Exception: [exception] receiver == null
+   於 SWDevelopKit.Testitem.RFTestPlan.GetReady(ComPort sender, ComPort receiver) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\RFTestPlan.cs: 行 23
+   於 MerryDllFramework.MerryDll.<>c__DisplayClass19_0.<OpenChannel>b__0()
+   於 SWDevelopKit.Util.Utils.WaitSomething(Int32 timeout, Int32 freq, Func`1 func) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Util\Utils.cs: 行 115
+   於 MerryDllFramework.MerryDll.OpenChannel(ComPort sender, ComPort receiver, Int32 retryCount)
+   於 MerryDllFramework.MerryDll.<LoadTestitem>b__18_31()
+   於 SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\TestitemManager.cs: 行 42
+[11:59:11]"HeadsetOpenChannel"
+[11:59:11]System.Exception: [exception] receiver == null
+   於 SWDevelopKit.Testitem.RFTestPlan.GetReady(ComPort sender, ComPort receiver) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\RFTestPlan.cs: 行 23
+   於 MerryDllFramework.MerryDll.<>c__DisplayClass19_0.<OpenChannel>b__0()
+   於 SWDevelopKit.Util.Utils.WaitSomething(Int32 timeout, Int32 freq, Func`1 func) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Util\Utils.cs: 行 115
+   於 MerryDllFramework.MerryDll.OpenChannel(ComPort sender, ComPort receiver, Int32 retryCount)
+   於 MerryDllFramework.MerryDll.<LoadTestitem>b__18_31()
+   於 SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\TestitemManager.cs: 行 42
+[11:59:34]"HeadsetOpenChannel"
+[11:59:34]System.Exception: [exception] receiver == null
+   於 SWDevelopKit.Testitem.RFTestPlan.GetReady(ComPort sender, ComPort receiver) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\RFTestPlan.cs: 行 23
+   於 MerryDllFramework.MerryDll.<>c__DisplayClass19_0.<OpenChannel>b__0()
+   於 SWDevelopKit.Util.Utils.WaitSomething(Int32 timeout, Int32 freq, Func`1 func) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Util\Utils.cs: 行 115
+   於 MerryDllFramework.MerryDll.OpenChannel(ComPort sender, ComPort receiver, Int32 retryCount)
+   於 MerryDllFramework.MerryDll.<LoadTestitem>b__18_31()
+   於 SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\TestitemManager.cs: 行 42
+[11:59:54]"HeadsetOpenChannel"
+[11:59:54]System.Exception: [exception] receiver == null
+   於 SWDevelopKit.Testitem.RFTestPlan.GetReady(ComPort sender, ComPort receiver) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\RFTestPlan.cs: 行 23
+   於 MerryDllFramework.MerryDll.<>c__DisplayClass19_0.<OpenChannel>b__0()
+   於 SWDevelopKit.Util.Utils.WaitSomething(Int32 timeout, Int32 freq, Func`1 func) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Util\Utils.cs: 行 115
+   於 MerryDllFramework.MerryDll.OpenChannel(ComPort sender, ComPort receiver, Int32 retryCount)
+   於 MerryDllFramework.MerryDll.<LoadTestitem>b__18_31()
+   於 SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\TestitemManager.cs: 行 42
+[12:01:07]"HeadsetOpenChannel"
+[12:01:07]System.Exception: [exception] receiver == null
+   於 SWDevelopKit.Testitem.RFTestPlan.GetReady(ComPort sender, ComPort receiver) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\RFTestPlan.cs: 行 23
+   於 MerryDllFramework.MerryDll.<>c__DisplayClass19_0.<OpenChannel>b__0()
+   於 SWDevelopKit.Util.Utils.WaitSomething(Int32 timeout, Int32 freq, Func`1 func) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Util\Utils.cs: 行 115
+   於 MerryDllFramework.MerryDll.OpenChannel(ComPort sender, ComPort receiver, Int32 retryCount)
+   於 MerryDllFramework.MerryDll.<LoadTestitem>b__18_31()
+   於 SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd) 於 E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\TestitemManager.cs: 行 42

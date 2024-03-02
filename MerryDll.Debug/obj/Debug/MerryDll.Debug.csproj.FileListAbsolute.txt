@@ -1,0 +1,282 @@
+C:\Users\CH190360\Desktop\MerryDll.Debug\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+C:\Users\CH180265\Desktop\model&&dll\MerryDll.Debug\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+C:\Users\ch210003\Desktop\MerryDll.Debug\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+C:\Users\ch210003\Desktop\MerryDll.Debug\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe
+C:\Users\ch210003\Desktop\MerryDll.Debug\MerryDll.Debug\bin\Debug\MerryDll.Debug.pdb
+C:\Users\ch210003\Desktop\MerryDll.Debug\MerryDll.Debug\obj\Debug\MerryDll.Debug.csprojResolveAssemblyReference.cache
+C:\Users\ch210003\Desktop\MerryDll.Debug\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+C:\Users\ch210003\Desktop\MerryDll.Debug\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb
+C:\Users\ch210003\Desktop\787文件\MerryDll.Debug\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+C:\Users\ch210003\Desktop\787文件\MerryDll.Debug\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+C:\Users\ch210003\Desktop\787文件\MerryDll.Debug\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb
+C:\Users\ch210004\Desktop\MerryDll.Debug\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+C:\Users\ch210004\Desktop\MerryDll.Debug\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+C:\Users\ch210004\Desktop\MerryDll.Debug\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb
+C:\Users\ch210004\Desktop\MerryDll.Debug\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe
+C:\Users\ch210004\Desktop\MerryDll.Debug\MerryDll.Debug\bin\Debug\MerryDll.Debug.pdb
+C:\Users\ch210004\Desktop\MerryDll.Debug\MerryDll.Debug\bin\Debug\HDT655.dll
+C:\Users\ch210004\Desktop\MerryDll.Debug\MerryDll.Debug\bin\Debug\MerryTestFramework.testitem.dll
+C:\Users\ch210004\Desktop\MerryDll.Debug\MerryDll.Debug\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ch210004\Desktop\MerryDll.Debug\MerryDll.Debug\bin\Debug\HDT655.pdb
+C:\Users\ch210003\Desktop\MerryDll.Debug\MerryDll.Debug\bin\Debug\HDT655.dll
+C:\Users\ch210003\Desktop\MerryDll.Debug\MerryDll.Debug\bin\Debug\MerryTestFramework.testitem.dll
+C:\Users\ch210003\Desktop\MerryDll.Debug\MerryDll.Debug\bin\Debug\HIDManager.dll
+C:\Users\ch210003\Desktop\MerryDll.Debug\MerryDll.Debug\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ch210003\Desktop\MerryDll.Debug\MerryDll.Debug\bin\Debug\HDT655.pdb
+C:\Users\ch210004\Desktop\MerryDll.Debug\MerryDll.Debug\bin\Debug\SWDevelopKit.dll
+C:\Users\ch210004\Desktop\MerryDll.Debug\MerryDll.Debug\obj\Debug\MerryDll.Debug.csprojAssemblyReference.cache
+C:\Users\ch210004\Desktop\MerryDll.Debug\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CoreCompileInputs.cache
+C:\Users\ch210004\Desktop\MerryDll.Debug\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CopyComplete
+C:\Users\ch210004\Desktop\HDT655MerryDll\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+C:\Users\ch210004\Desktop\HDT655MerryDll\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+C:\Users\ch210004\Desktop\HDT655MerryDll\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb
+C:\Users\ch210004\Desktop\HDT655MerryDll\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe
+C:\Users\ch210004\Desktop\HDT655MerryDll\MerryDll.Debug\bin\Debug\MerryDll.Debug.pdb
+C:\Users\ch210004\Desktop\HDT655MerryDll\MerryDll.Debug\bin\Debug\MerryTestFramework.testitem.dll
+C:\Users\ch210004\Desktop\HDT655MerryDll\MerryDll.Debug\obj\Debug\MerryDll.Debug.csprojAssemblyReference.cache
+C:\Users\ch210004\Desktop\HDT655MerryDll\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CoreCompileInputs.cache
+C:\Users\ch210004\Desktop\HDT655MerryDll\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CopyComplete
+C:\Users\ch210004\Desktop\HDT655MerryDll\MerryDll.Debug\bin\Debug\MESDLL.dll
+C:\Users\ch210004\Desktop\HDT655MerryDll\MerryDll.Debug\bin\Debug\SWDevelopKit.dll
+C:\Users\ch210004\Desktop\HDT655MerryDll\MerryDll.Debug\bin\Debug\SWDevelopKit.pdb
+C:\Users\ch210004\Desktop\HDT655MerryDll\MerryDll.Debug\bin\Debug\SWDevelopKit.xml
+C:\Users\ch210004\Desktop\HDT655MerryDll\MerryDll.Debug\bin\Debug\HDT602_013.dll
+C:\Users\ch210004\Desktop\HDT655MerryDll\MerryDll.Debug\bin\Debug\HDT602_013.pdb
+E:\机型\HDT602-013\Code\HDT602_013MerryDll\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+E:\机型\HDT602-013\Code\HDT602_013MerryDll\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe
+E:\机型\HDT602-013\Code\HDT602_013MerryDll\MerryDll.Debug\bin\Debug\MerryDll.Debug.pdb
+E:\机型\HDT602-013\Code\HDT602_013MerryDll\MerryDll.Debug\bin\Debug\HDT602_013.dll
+E:\机型\HDT602-013\Code\HDT602_013MerryDll\MerryDll.Debug\bin\Debug\SWDevelopKit.dll
+E:\机型\HDT602-013\Code\HDT602_013MerryDll\MerryDll.Debug\bin\Debug\MerryTestFramework.testitem.dll
+E:\机型\HDT602-013\Code\HDT602_013MerryDll\MerryDll.Debug\bin\Debug\MESDLL.dll
+E:\机型\HDT602-013\Code\HDT602_013MerryDll\MerryDll.Debug\bin\Debug\HDT602_013.pdb
+E:\机型\HDT602-013\Code\HDT602_013MerryDll\MerryDll.Debug\bin\Debug\SWDevelopKit.pdb
+E:\机型\HDT602-013\Code\HDT602_013MerryDll\MerryDll.Debug\bin\Debug\SWDevelopKit.xml
+E:\机型\HDT602-013\Code\HDT602_013MerryDll\MerryDll.Debug\obj\Debug\MerryDll.Debug.csprojAssemblyReference.cache
+E:\机型\HDT602-013\Code\HDT602_013MerryDll\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CoreCompileInputs.cache
+E:\机型\HDT602-013\Code\HDT602_013MerryDll\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CopyComplete
+E:\机型\HDT602-013\Code\HDT602_013MerryDll\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+E:\机型\HDT602-013\Code\HDT602_013MerryDll\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb
+E:\机型\HDT602-013\Code\HDT602_013MerryDll\MerryDll.Debug\bin\Debug\Newtonsoft.Json.dll
+E:\gitea\HDT602_013\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+E:\gitea\HDT602_013\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe
+E:\gitea\HDT602_013\MerryDll.Debug\bin\Debug\MerryDll.Debug.pdb
+E:\gitea\HDT602_013\MerryDll.Debug\bin\Debug\HDT602_013.dll
+E:\gitea\HDT602_013\MerryDll.Debug\bin\Debug\MerryTestFramework.testitem.dll
+E:\gitea\HDT602_013\MerryDll.Debug\bin\Debug\MESDLL.dll
+E:\gitea\HDT602_013\MerryDll.Debug\bin\Debug\Newtonsoft.Json.dll
+E:\gitea\HDT602_013\MerryDll.Debug\bin\Debug\HDT602_013.pdb
+E:\gitea\HDT602_013\MerryDll.Debug\bin\Debug\SWDevelopKit.pdb
+E:\gitea\HDT602_013\MerryDll.Debug\bin\Debug\SWDevelopKit.xml
+E:\gitea\HDT602_013\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CoreCompileInputs.cache
+E:\gitea\HDT602_013\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CopyComplete
+E:\gitea\HDT602_013\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+E:\gitea\HDT602_013\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb
+E:\gitea\HDT602_013\MerryDll.Debug\obj\Debug\MerryDll.Debug.csprojAssemblyReference.cache
+E:\gitea\HDT602_014\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CoreCompileInputs.cache
+E:\gitea\HDT602_014\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+E:\gitea\HDT602_014\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb
+E:\gitea\HDT602_014\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+E:\gitea\HDT602_014\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe
+E:\gitea\HDT602_014\MerryDll.Debug\bin\Debug\MerryDll.Debug.pdb
+E:\gitea\HDT602_014\MerryDll.Debug\bin\Debug\HDT602_014.dll
+E:\gitea\HDT602_014\MerryDll.Debug\bin\Debug\SWDevelopKitV2.0.dll
+E:\gitea\HDT602_014\MerryDll.Debug\bin\Debug\MerryTestFramework.testitem.dll
+E:\gitea\HDT602_014\MerryDll.Debug\bin\Debug\Newtonsoft.Json.dll
+E:\gitea\HDT602_014\MerryDll.Debug\bin\Debug\MESDLL.dll
+E:\gitea\HDT602_014\MerryDll.Debug\bin\Debug\HDT602_014.pdb
+E:\gitea\HDT602_014\MerryDll.Debug\bin\Debug\HDT602_014.xml
+E:\gitea\HDT602_014\MerryDll.Debug\bin\Debug\SWDevelopKitV2.0.pdb
+E:\gitea\HDT602_014\MerryDll.Debug\bin\Debug\SWDevelopKitV2.0.xml
+E:\gitea\HDT602_014\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CopyComplete
+E:\gitea\HDT602_014\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.AssemblyReference.cache
+E:\gitea\HDT660\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CoreCompileInputs.cache
+E:\gitea\HDT660\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.AssemblyReference.cache
+E:\gitea\HDT660\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe
+E:\gitea\HDT660\MerryDll.Debug\bin\Debug\MerryDll.Debug.pdb
+E:\gitea\HDT660\MerryDll.Debug\bin\Debug\MESDLL.dll
+E:\gitea\HDT660\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CopyComplete
+E:\gitea\HDT660\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+E:\gitea\HDT660\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb
+E:\gitea\HDT660\MerryDll.Debug\bin\Debug\SWDevelopKit_v250-rc.dll
+E:\gitea\HDT660\MerryDll.Debug\bin\Debug\SWDevelopKit_v250-rc.pdb
+E:\gitea\HDT660\MerryDll.Debug\bin\Debug\SWDevelopKit_v250-rc.xml
+E:\gitea\HDT660\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.SuggestedBindingRedirects.cache
+E:\gitea\HDT660\MerryDll.Debug\bin\Debug\HDT660.dll
+E:\gitea\HDT660\MerryDll.Debug\bin\Debug\HDT660.pdb
+E:\gitea\HDT660\MerryDll.Debug\bin\Debug\HDT660.xml
+E:\ChungDS\2_SourceCode\HDT660\HDT660\src\HDT660\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.AssemblyReference.cache
+E:\ChungDS\2_SourceCode\HDT660\HDT660\src\HDT660\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CoreCompileInputs.cache
+E:\ChungDS\2_SourceCode\HDT660\HDT660\src\HDT660\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+E:\ChungDS\2_SourceCode\HDT660\HDT660\src\HDT660\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb
+E:\ChungDS\2_SourceCode\HDT660\HDT660\src\HDT660\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+E:\ChungDS\2_SourceCode\HDT660\HDT660\src\HDT660\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe
+E:\ChungDS\2_SourceCode\HDT660\HDT660\src\HDT660\MerryDll.Debug\bin\Debug\MerryDll.Debug.pdb
+E:\ChungDS\2_SourceCode\HDT660\HDT660\src\HDT660\MerryDll.Debug\bin\Debug\HDT660.dll
+E:\ChungDS\2_SourceCode\HDT660\HDT660\src\HDT660\MerryDll.Debug\bin\Debug\MESDLL.dll
+E:\ChungDS\2_SourceCode\HDT660\HDT660\src\HDT660\MerryDll.Debug\bin\Debug\HDT660.pdb
+E:\ChungDS\2_SourceCode\HDT660\HDT660\src\HDT660\MerryDll.Debug\bin\Debug\HDT660.xml
+E:\ChungDS\2_SourceCode\HDT660\HDT660\src\HDT660\MerryDll.Debug\bin\Debug\SWDevelopKit_v250-rc.pdb
+E:\ChungDS\2_SourceCode\HDT660\HDT660\src\HDT660\MerryDll.Debug\bin\Debug\SWDevelopKit_v250-rc.xml
+E:\ChungDS\2_SourceCode\HDT660\HDT660\src\HDT660\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CopyComplete
+E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe
+E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll.Debug\bin\Debug\MerryDll.Debug.pdb
+E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll.Debug\bin\Debug\HDT660.dll
+E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll.Debug\bin\Debug\MESDLL.dll
+E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll.Debug\bin\Debug\HDT660.pdb
+E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll.Debug\bin\Debug\HDT660.xml
+E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.AssemblyReference.cache
+E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CoreCompileInputs.cache
+E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CopyComplete
+E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 2022.08.16 Repair 12.14\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 2022.08.16 Repair 12.14\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 2022.08.16 Repair 12.14\MerryDll.Debug\bin\Debug\MerryDll.Debug.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 2022.08.16 Repair 12.14\MerryDll.Debug\bin\Debug\HDT660.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 2022.08.16 Repair 12.14\MerryDll.Debug\bin\Debug\HDT660.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 2022.08.16 Repair 12.14\MerryDll.Debug\bin\Debug\HDT660.xml
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 2022.08.16 Repair 12.14\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 2022.08.16 Repair 12.14\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 2022.08.16 Repair 12.14\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 2022.08.16 Repair 12.14\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 2022.08.16 Repair 12.14\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 2022.08.16 Repair 12.14\MerryDll.Debug\bin\Debug\SwATE_Net.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 2022.08.16 Repair 12.14\MerryDll.Debug\bin\Debug\MESDLL.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 Repair 12.14\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 Repair 12.14\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 Repair 12.14\MerryDll.Debug\bin\Debug\MerryDll.Debug.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 Repair 12.14\MerryDll.Debug\bin\Debug\HDT660.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 Repair 12.14\MerryDll.Debug\bin\Debug\MESDLL.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 Repair 12.14\MerryDll.Debug\bin\Debug\SwATE_Net.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 Repair 12.14\MerryDll.Debug\bin\Debug\HDT660.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 Repair 12.14\MerryDll.Debug\bin\Debug\HDT660.xml
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 Repair 12.14\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 Repair 12.14\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 Repair 12.14\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 Repair 12.14\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660 Repair 12.14\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 12.14\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 12.14\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 12.14\MerryDll.Debug\bin\Debug\MerryDll.Debug.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 12.14\MerryDll.Debug\bin\Debug\HDT660.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 12.14\MerryDll.Debug\bin\Debug\MESDLL.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 12.14\MerryDll.Debug\bin\Debug\SwATE_Net.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 12.14\MerryDll.Debug\bin\Debug\HDT660.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 12.14\MerryDll.Debug\bin\Debug\HDT660.xml
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 12.14\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 12.14\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 12.14\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 12.14\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 12.14\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 4-24\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 4-24\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 4-24\MerryDll.Debug\bin\Debug\MerryDll.Debug.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 4-24\MerryDll.Debug\bin\Debug\HDT660.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 4-24\MerryDll.Debug\bin\Debug\MESDLL.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 4-24\MerryDll.Debug\bin\Debug\SwATE_Net.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 4-24\MerryDll.Debug\bin\Debug\HDT660.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 4-24\MerryDll.Debug\bin\Debug\HDT660.xml
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 4-24\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 4-24\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 4-24\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 4-24\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 4-24\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 20230508\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 20230508\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 20230508\MerryDll.Debug\bin\Debug\MerryDll.Debug.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 20230508\MerryDll.Debug\bin\Debug\MESDLL.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 20230508\MerryDll.Debug\bin\Debug\SwATE_Net.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 20230508\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 20230508\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 20230508\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 20230508\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 20230508\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 20230508\MerryDll.Debug\bin\Debug\HDT660.dll
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 20230508\MerryDll.Debug\bin\Debug\HDT660.pdb
+E:\2. MEVNSW\1_SourceCode\1_LOGITECH\HDT660\Src Repair 20230508\MerryDll.Debug\bin\Debug\HDT660.xml
+C:\Users\Administrator\Desktop\New folder (2)\HDT660 Code\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+C:\Users\Administrator\Desktop\New folder (2)\HDT660 Code\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe
+C:\Users\Administrator\Desktop\New folder (2)\HDT660 Code\MerryDll.Debug\bin\Debug\MerryDll.Debug.pdb
+C:\Users\Administrator\Desktop\New folder (2)\HDT660 Code\MerryDll.Debug\bin\Debug\HDT660.dll
+C:\Users\Administrator\Desktop\New folder (2)\HDT660 Code\MerryDll.Debug\bin\Debug\MESDLL.dll
+C:\Users\Administrator\Desktop\New folder (2)\HDT660 Code\MerryDll.Debug\bin\Debug\SwATE_Net.dll
+C:\Users\Administrator\Desktop\New folder (2)\HDT660 Code\MerryDll.Debug\bin\Debug\HDT660.pdb
+C:\Users\Administrator\Desktop\New folder (2)\HDT660 Code\MerryDll.Debug\bin\Debug\HDT660.xml
+C:\Users\Administrator\Desktop\New folder (2)\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder (2)\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\New folder (2)\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder (2)\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CopyComplete
+C:\Users\Administrator\Desktop\New folder (2)\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+C:\Users\Administrator\Desktop\New folder (2)\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb
+C:\Users\Administrator\Downloads\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+C:\Users\Administrator\Downloads\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe
+C:\Users\Administrator\Downloads\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\MerryDll.Debug.pdb
+C:\Users\Administrator\Downloads\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\HDT660.dll
+C:\Users\Administrator\Downloads\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\MESDLL.dll
+C:\Users\Administrator\Downloads\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\SwATE_Net.dll
+C:\Users\Administrator\Downloads\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\HDT660.pdb
+C:\Users\Administrator\Downloads\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\HDT660.xml
+C:\Users\Administrator\Downloads\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CopyComplete
+C:\Users\Administrator\Downloads\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+C:\Users\Administrator\Downloads\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\MerryDll.Debug.pdb
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\HDT660.dll
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\MESDLL.dll
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\SwATE_Net.dll
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\HDT660.pdb
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\HDT660.xml
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.AssemblyReference.cache
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.SuggestedBindingRedirects.cache
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CoreCompileInputs.cache
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CopyComplete
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb
+D:\VNMerryTest\660\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+D:\VNMerryTest\660\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe
+D:\VNMerryTest\660\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\MerryDll.Debug.pdb
+D:\VNMerryTest\660\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\HDT660.dll
+D:\VNMerryTest\660\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\MESDLL.dll
+D:\VNMerryTest\660\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\SwATE_Net.dll
+D:\VNMerryTest\660\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\HDT660.pdb
+D:\VNMerryTest\660\HDT660 Code\HDT660 Code\MerryDll.Debug\bin\Debug\HDT660.xml
+D:\VNMerryTest\660\HDT660 Code\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.AssemblyReference.cache
+D:\VNMerryTest\660\HDT660 Code\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.SuggestedBindingRedirects.cache
+D:\VNMerryTest\660\HDT660 Code\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CoreCompileInputs.cache
+D:\VNMerryTest\660\HDT660 Code\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CopyComplete
+D:\VNMerryTest\660\HDT660 Code\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+D:\VNMerryTest\660\HDT660 Code\HDT660 Code\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb
+C:\Users\Administrator\Desktop\HDT660 Code new\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+C:\Users\Administrator\Desktop\HDT660 Code new\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe
+C:\Users\Administrator\Desktop\HDT660 Code new\MerryDll.Debug\bin\Debug\MerryDll.Debug.pdb
+C:\Users\Administrator\Desktop\HDT660 Code new\MerryDll.Debug\bin\Debug\HDT660.dll
+C:\Users\Administrator\Desktop\HDT660 Code new\MerryDll.Debug\bin\Debug\MESDLL.dll
+C:\Users\Administrator\Desktop\HDT660 Code new\MerryDll.Debug\bin\Debug\SwATE_Net.dll
+C:\Users\Administrator\Desktop\HDT660 Code new\MerryDll.Debug\bin\Debug\HDT660.pdb
+C:\Users\Administrator\Desktop\HDT660 Code new\MerryDll.Debug\bin\Debug\HDT660.xml
+C:\Users\Administrator\Desktop\HDT660 Code new\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\HDT660 Code new\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\HDT660 Code new\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HDT660 Code new\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CopyComplete
+C:\Users\Administrator\Desktop\HDT660 Code new\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+C:\Users\Administrator\Desktop\HDT660 Code new\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code new\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe.config
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code new\MerryDll.Debug\bin\Debug\MerryDll.Debug.exe
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code new\MerryDll.Debug\bin\Debug\MerryDll.Debug.pdb
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code new\MerryDll.Debug\bin\Debug\HDT660.dll
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code new\MerryDll.Debug\bin\Debug\MESDLL.dll
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code new\MerryDll.Debug\bin\Debug\SwATE_Net.dll
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code new\MerryDll.Debug\bin\Debug\HDT660.pdb
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code new\MerryDll.Debug\bin\Debug\HDT660.xml
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code new\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.AssemblyReference.cache
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code new\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.SuggestedBindingRedirects.cache
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code new\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CoreCompileInputs.cache
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code new\MerryDll.Debug\obj\Debug\MerryDll.Debug.csproj.CopyComplete
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code new\MerryDll.Debug\obj\Debug\MerryDll.Debug.exe
+D:\Fuzhang\DU AN\HDT660_NEW\HDT660 Code new\MerryDll.Debug\obj\Debug\MerryDll.Debug.pdb

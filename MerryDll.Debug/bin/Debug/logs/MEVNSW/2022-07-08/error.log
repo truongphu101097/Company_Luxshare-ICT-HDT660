@@ -1,0 +1,28 @@
+[10:43:40]"HeadsetSN"
+[10:43:40]System.Exception: 没有在ConfigDict文件中找到 DongleTestFlag 这一项
+   at SWDevelopKit.Config.IniConfigHelper.GetValue(String key, Type type) in E:\gitea\sw-develop-kit\SWDevelopKit\Config\IniConfigHelper.cs:line 96
+   at SWDevelopKit.Config.IniConfigHelper.ParseToEntity[T](String filePath) in E:\gitea\sw-develop-kit\SWDevelopKit\Config\IniConfigHelper.cs:line 67
+   at MerryDllFramework.MerryDll.get_Config() in E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll\MerryDll.cs:line 24
+   at MerryDllFramework.MerryDll.get_HSerialDev() in E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll\MerryDll.cs:line 37
+   at MerryDllFramework.MerryDll.ReadHeadsetSN() in E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll\MerryDll.cs:line 380
+   at MerryDllFramework.MerryDll.<LoadTestitem>b__18_12() in E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll\MerryDll.cs:line 87
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd) in E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\TestitemManager.cs:line 42
+[11:05:27]"WrtieDongleTestFlag"
+[11:05:27]System.Exception: 没有在ConfigDict文件中找到 DongleTestFlag 这一项
+   at SWDevelopKit.Config.IniConfigHelper.GetValue(String key, Type type) in E:\gitea\sw-develop-kit\SWDevelopKit\Config\IniConfigHelper.cs:line 96
+   at SWDevelopKit.Config.IniConfigHelper.ParseToEntity[T](String filePath) in E:\gitea\sw-develop-kit\SWDevelopKit\Config\IniConfigHelper.cs:line 67
+   at MerryDllFramework.MerryDll.get_Config() in E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll\MerryDll.cs:line 24
+   at MerryDllFramework.MerryDll.get_DSerialDev() in E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll\MerryDll.cs:line 36
+   at MerryDllFramework.MerryDll.ReadDongleTestFlag() in E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll\MerryDll.cs:line 241
+   at MerryDllFramework.MerryDll.WrtieDongleTestFlag() in E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll\MerryDll.cs:line 149
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd) in E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\TestitemManager.cs:line 42
+[15:38:55]"GetDongleFW"
+[15:38:55]System.Exception: 没有在ConfigDict文件中找到 DongleTestFlag 这一项
+   at SWDevelopKit.Config.IniConfigHelper.GetValue(String key, Type type) in E:\gitea\sw-develop-kit\SWDevelopKit\Config\IniConfigHelper.cs:line 96
+   at SWDevelopKit.Config.IniConfigHelper.ParseToEntity[T](String filePath) in E:\gitea\sw-develop-kit\SWDevelopKit\Config\IniConfigHelper.cs:line 67
+   at MerryDllFramework.MerryDll.get_Config() in E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll\MerryDll.cs:line 24
+   at MerryDllFramework.MerryDll.get_DSerialDev() in E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll\MerryDll.cs:line 36
+   at MerryDllFramework.MerryDll.<>c__DisplayClass29_0.<GetDongleFW>b__0() in E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll\MerryDll.cs:line 267
+   at SWDevelopKit.Util.Utils.WaitSomething(Int32 timeout, Int32 freq, Func`1 func) in E:\gitea\sw-develop-kit\SWDevelopKit.Util\Utils.cs:line 115
+   at MerryDllFramework.MerryDll.GetDongleFW() in E:\ChungDS\2_SourceCode\1_LOGITECH\HDT660\1_HDT660\SRC\HDT660\MerryDll\MerryDll.cs:line 266
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd) in E:\gitea\sw-develop-kit\SWDevelopKit.Testitem\TestitemManager.cs:line 42
